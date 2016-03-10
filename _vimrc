@@ -18,3 +18,10 @@ set softtabstop=4
 set shiftwidth=4
 set noexpandtab
 
+" Windows Command Prompt のメッセージを抑制(Hit And ...)
+set shortmess=a
+
+" ショートカット
+
+noremap <F11> <C-U>:silent !ruby %<CR>
+
