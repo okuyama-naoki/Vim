@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/dev/RegaliaBuild/userspace/TestPrint'
+let g:netrw_dirhist_2='/home/dev/RegaliaBuild/userspace/TestPrint/source'
+let g:netrw_dirhist_3='/home/dev/RegaliaBuild/userspace/sato-device/python-agent'
+let g:netrw_dirhist_4='/home/dev/RegaliaBuild/userspace/aep'
+let g:netrw_dirhist_5='/home/dev/RegaliaBuild/userspace/aep/source/Lua/luasocket-2.0.2/src'

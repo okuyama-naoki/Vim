@@ -1,0 +1,5 @@
+neobundle.vim
+unite.vim
+vim-coffee-script
+vim-fugitive
+vim-unite-giti
